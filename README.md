@@ -1,2 +1,2 @@
 # PortfolioHUB
-Nesta área estamos criando o portfólio pessoal e profissional do bootcamp 1 na etapa intermediária.
+In this area we are creating the personal and professional portfolio of bootcamp 1 in the intermediate stage.
